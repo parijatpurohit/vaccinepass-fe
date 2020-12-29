@@ -101,6 +101,11 @@ h6 {
 	text-align: center;
 }
 
+.form-element {
+	display: flex;
+	justify-content: center;
+}
+
 .p-heading {
 	margin-bottom: 3.25rem;
 }
